@@ -1,3 +1,8 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
 .bg-color{
     background-color: #feeae9;
 }
@@ -55,4 +60,16 @@ background-color: #ff136f;
 .title h3{
 font-size: 20px;
 color: orange;
+}
+#Contact{
+    background-color: #feeae9;
+    height: 300px;
+}
+.subtitle button{
+    margin-top: 20px;
+}
+footer{
+    text-align: center;
+    color: gray;
+    font-size: 12px;
 }
